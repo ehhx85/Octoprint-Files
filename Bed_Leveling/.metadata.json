@@ -1,0 +1,98 @@
+{
+    "bed_leveling_dots_petg_clear_001.gcode": {
+        "analysis": {
+            "estimatedPrintTime": 1192.201699099997,
+            "printingArea": {
+                "maxZ": 0.28,
+                "minX": 1.076,
+                "maxX": 218.924,
+                "maxY": 218.924,
+                "minY": 1.076,
+                "minZ": 0.12
+            },
+            "dimensions": {
+                "width": 217.848,
+                "depth": 217.848,
+                "height": 0.16000000000000003
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 429.7347599999991
+                }
+            }
+        }
+    },
+    "bed_leveling_dots_PLA_001.gcode": {
+        "analysis": {
+            "estimatedPrintTime": 2722.0914651859357,
+            "printingArea": {
+                "maxZ": 0.96,
+                "minX": 0.1,
+                "maxX": 220.883,
+                "maxY": 220.883,
+                "minY": 14.117,
+                "minZ": 0.08
+            },
+            "dimensions": {
+                "width": 220.78300000000002,
+                "depth": 206.76600000000002,
+                "height": 0.88
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 1261.7788499999947
+                }
+            }
+        }
+    },
+    "bed_leveling_target_001.gcode": {
+        "analysis": {
+            "estimatedPrintTime": 2426.1917525685803,
+            "printingArea": {
+                "maxZ": 0.72,
+                "minX": 0.1,
+                "maxX": 223.891,
+                "maxY": 223.891,
+                "minY": 11.109,
+                "minZ": 0.24
+            },
+            "dimensions": {
+                "width": 223.791,
+                "depth": 212.78199999999998,
+                "height": 0.48
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 2284.277349999999
+                }
+            }
+        }
+    },
+    "bed_leveling_dots_PLA_002.gcode": {
+        "analysis": {
+            "estimatedPrintTime": 1558.577838070397,
+            "printingArea": {
+                "maxZ": 0.44,
+                "minX": 0.1,
+                "maxX": 220.886,
+                "maxY": 220.886,
+                "minY": 14.114,
+                "minZ": 0.12
+            },
+            "dimensions": {
+                "width": 220.786,
+                "depth": 206.772,
+                "height": 0.32
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 772.1991700000013
+                }
+            }
+        }
+    }
+}

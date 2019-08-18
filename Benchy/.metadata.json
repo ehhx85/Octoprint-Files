@@ -1,0 +1,50 @@
+{
+    "benchy_pla_004.gcode": {
+        "analysis": {
+            "estimatedPrintTime": 7796.986405445452,
+            "printingArea": {
+                "maxZ": 47.88,
+                "minX": 0.1,
+                "maxX": 147.284,
+                "maxY": 200.0,
+                "minY": 20.0,
+                "minZ": 0.2
+            },
+            "dimensions": {
+                "width": 147.184,
+                "depth": 180.0,
+                "height": 47.68
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 6724.324599999888
+                }
+            }
+        }
+    },
+    "benchy_petg_001.gcode": {
+        "analysis": {
+            "estimatedPrintTime": 7775.8410217921555,
+            "printingArea": {
+                "maxZ": 48.0,
+                "minX": 0.1,
+                "maxX": 154.179,
+                "maxY": 200.0,
+                "minY": 20.0,
+                "minZ": 0.24
+            },
+            "dimensions": {
+                "width": 154.079,
+                "depth": 180.0,
+                "height": 47.76
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 4767.032729999984
+                }
+            }
+        }
+    }
+}
