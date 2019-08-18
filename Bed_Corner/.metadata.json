@@ -1,0 +1,26 @@
+{
+    "bed_corner_pla_001.gcode": {
+        "analysis": {
+            "estimatedPrintTime": 7590.474205244084,
+            "printingArea": {
+                "maxZ": 26.0,
+                "minX": 0.1,
+                "maxX": 155.483,
+                "maxY": 200.0,
+                "minY": 20.0,
+                "minZ": 0.2
+            },
+            "dimensions": {
+                "width": 155.383,
+                "depth": 180.0,
+                "height": 25.8
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 5810.877989999058
+                }
+            }
+        }
+    }
+}

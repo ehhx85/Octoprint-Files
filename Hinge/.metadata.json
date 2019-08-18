@@ -1,0 +1,50 @@
+{
+    "hinge_petg_001.gcode": {
+        "analysis": {
+            "estimatedPrintTime": 2504.0005422387144,
+            "printingArea": {
+                "maxZ": 9.05,
+                "maxX": 149.23,
+                "maxY": 200.0,
+                "minX": 0.1,
+                "minY": 20.0,
+                "minZ": 0.2
+            },
+            "dimensions": {
+                "width": 149.13,
+                "depth": 180.0,
+                "height": 8.850000000000001
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 2769.7535999999914
+                }
+            }
+        }
+    },
+    "hinge_petg_002.gcode": {
+        "analysis": {
+            "estimatedPrintTime": 2027.3001993777684,
+            "printingArea": {
+                "maxZ": 9.12,
+                "minX": 0.1,
+                "maxX": 149.639,
+                "maxY": 200.0,
+                "minY": 20.0,
+                "minZ": 0.24
+            },
+            "dimensions": {
+                "width": 149.53900000000002,
+                "depth": 180.0,
+                "height": 8.879999999999999
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 3090.1421499999997
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "CE3_Darth_Vader_buddha_pla_001.gcode": {
+        "analysis": {
+            "estimatedPrintTime": 22684.61433661652,
+            "printingArea": {
+                "maxZ": 98.96,
+                "minX": 0.1,
+                "maxX": 170.552,
+                "maxY": 200.0,
+                "minY": 20.0,
+                "minZ": 0.2
+            },
+            "dimensions": {
+                "width": 170.452,
+                "depth": 180.0,
+                "height": 98.75999999999999
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 22988.288800020055
+                }
+            }
+        }
+    }
+}
