@@ -1,4 +1,50 @@
 {
-    "CE3_T-Rex_Pen_Holder_001.gcode": {},
-    "CE3_T-Rex_Pen_Holder.gcode": {}
+    "CE3_T-Rex_Pen_Holder_001.gcode": {
+        "analysis": {
+            "estimatedPrintTime": 82672.8258991806,
+            "printingArea": {
+                "maxZ": 132.48,
+                "minX": 0.1,
+                "maxX": 178.321,
+                "maxY": 200.0,
+                "minY": 20.0,
+                "minZ": 0.24
+            },
+            "dimensions": {
+                "width": 178.221,
+                "depth": 180.0,
+                "height": 132.23999999999998
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 54154.638930001194
+                }
+            }
+        }
+    },
+    "CE3_T-Rex_Pen_Holder.gcode": {
+        "analysis": {
+            "estimatedPrintTime": 82672.8258991806,
+            "printingArea": {
+                "maxZ": 132.48,
+                "minX": 0.1,
+                "maxX": 178.321,
+                "maxY": 200.0,
+                "minY": 20.0,
+                "minZ": 0.24
+            },
+            "dimensions": {
+                "width": 178.221,
+                "depth": 180.0,
+                "height": 132.23999999999998
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 54154.638930001194
+                }
+            }
+        }
+    }
 }

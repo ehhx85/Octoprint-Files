@@ -1,3 +1,26 @@
 {
-    "vase_001.gcode": {}
+    "vase_001.gcode": {
+        "analysis": {
+            "estimatedPrintTime": 11792.085424951014,
+            "printingArea": {
+                "maxZ": 75.72,
+                "minX": 10.1,
+                "maxX": 148.026,
+                "maxY": 200.0,
+                "minY": 20.0,
+                "minZ": 0.12
+            },
+            "dimensions": {
+                "width": 137.92600000000002,
+                "depth": 180.0,
+                "height": 75.6
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 5689.486259999562
+                }
+            }
+        }
+    }
 }

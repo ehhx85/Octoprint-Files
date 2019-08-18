@@ -1,3 +1,26 @@
 {
-    "octane_petg_001.gcode": {}
+    "octane_petg_001.gcode": {
+        "analysis": {
+            "estimatedPrintTime": 21139.85705142432,
+            "printingArea": {
+                "maxZ": 71.52,
+                "minX": 10.1,
+                "maxX": 136.739,
+                "maxY": 200.0,
+                "minY": 20.0,
+                "minZ": 0.12
+            },
+            "dimensions": {
+                "width": 126.63900000000001,
+                "depth": 180.0,
+                "height": 71.39999999999999
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 8378.007130000009
+                }
+            }
+        }
+    }
 }
